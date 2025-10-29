@@ -1,0 +1,7 @@
+{
+  "name": "Copy of JARVIS AI Chat",
+  "description": "A web-based AI assistant inspired by JARVIS from Iron Man, featuring a cinematic intro and a responsive chatbot interface powered by the Gemini API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
